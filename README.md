@@ -1,7 +1,7 @@
 # Benchmarks
 
 # Optimization -O3:
-      ![O3.PNG](https://github.com/armeanco/crtp_benchmark/blob/main/profile/O3.PNG)
+      ![O3](https://github.com/armeanco/crtp_benchmark/blob/main/profile/O3.PNG)
 # Optimization -O2:
       ![O2](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 # Optimization -O1
