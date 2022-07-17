@@ -2,7 +2,7 @@
 
 # Optimization -O3:
       <p align="center">
-         <img src="https://github.com/armeanco/crtp_benchmark/blob/main/profile/O3.PNG">
+         <img src="https://raw.githubusercontent.com/armeanco/crtp_benchmark/main/profile/O3.PNG">
       </p>
 # Optimization -O2:
       ![O2](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
